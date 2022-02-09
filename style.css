@@ -1,0 +1,170 @@
+h1{
+    font-family: 'Hanalei', cursive;
+    border-color: red;
+    text-align: center;
+}
+table{
+    margin-left: 25%;
+    border-collapse: separate;
+    width: 50%;
+    border: black 1px solid;
+
+}
+caption.t1{
+    background: rgb(255, 230, 3);
+    color: blue;
+    font-weight: bold;
+}
+
+
+td.bitcoin{
+    text-align: center;
+    vertical-align: top;
+    border: 1px solid #000;
+    
+}
+
+td.etherium{
+    text-align: center;
+    vertical-align: top;
+    border: 1px solid #000;
+}
+
+td.tether{
+    text-align: center;
+    vertical-align: top;
+    border: 1px solid #000;
+}
+
+td.cardano1{
+    text-align: center;
+    vertical-align: top;
+    border: 1px solid #000;
+}
+
+td.bitcoin{
+    text-align: center;
+    vertical-align: top;
+    border: 1px solid #000;
+}
+
+td.ripple{
+    text-align: center;
+    vertical-align: top;
+    border: 1px solid #000;
+}
+
+td.monpre{
+    text-align: center;
+    vertical-align: top;
+    border: 1px solid #000;
+}
+
+#int{
+    margin-left: 10%;
+    border-collapse: collapse ;
+    width: 80%;
+}
+
+caption.t2{
+    background: rgb(255, 230, 3);
+    color: blue;
+    font-weight: bold;
+    caption-side: bottom;
+}
+
+#tabla2{
+    margin-left: 15%;
+    border-collapse: collapse;
+    width: 70%;
+    border: black 1px solid;
+}
+
+td.bitcoin1{
+    text-align: center;
+    vertical-align: top;
+    border: 1px solid #000;
+    border-left-color: red;
+    border-right-color: red;
+    
+}
+
+td.etherium1{
+    text-align: center;
+    vertical-align: top;
+    border: 1px solid #000;
+    border-left-color: red;
+    border-right-color: red;
+}
+
+td.tether1{
+    text-align: center;
+    vertical-align: top;
+    border: 1px solid #000;
+    border-left-color: red;
+    border-right-color: red;
+}
+
+td.cardano11{
+    text-align: center;
+    vertical-align: top;
+    border: 1px solid #000;
+    border-left-color: red;
+    border-right-color: red;
+}
+
+td.cardano22{
+    text-align: center;
+    vertical-align: top;
+    border: 1px solid #000;
+    border-left-color: red;
+    border-right-color: red;
+}
+
+td.bitcoin1{
+    text-align: center;
+    vertical-align: top;
+    border: 1px solid #000;
+    border-left-color: red;
+    border-right-color: red;
+}
+
+td.ripple1{
+    text-align: center;
+    vertical-align: top;
+    border: 1px solid #000;
+    border-bottom-color: red;
+    border-left-color: red;
+    border-right-color: red;
+}
+
+td.monpre1{
+    text-align: center;
+    vertical-align: top;
+    border: 1px solid #000;
+    border-bottom-color: red;
+
+}
+
+#fin{
+    margin-left: 25%;
+    border-collapse: separate;
+    width: 50%;
+    border: rgb(255, 72, 0) 5px solid;
+}
+
+td.fin{
+    text-align: center;
+    vertical-align: middle;
+    background-color: rgb(255, 230, 3);
+    color: blue;
+    font-weight: bold;
+}
+
+#fin{
+    margin-left: 10%;
+    border-collapse: collapse ;
+    width: 80%;
+    font-size: large;
+    height: 70px;
+}
